@@ -1,0 +1,2 @@
+#!/bin/bash
+gcloud compute --project "ibrikapp" ssh --zone "us-central1-a" "instance-1"
